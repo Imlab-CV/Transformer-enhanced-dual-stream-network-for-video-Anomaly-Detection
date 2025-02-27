@@ -1,0 +1,7 @@
+torch>=1.3
+numpy
+os
+random
+opencv-contrib-python
+sklearn
+matplotlib
