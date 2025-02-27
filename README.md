@@ -13,12 +13,12 @@ Video anomaly detection is a critical research area, driven by the increasing re
 ### 2. Datasets
 The datasets can be downloaded from the following links.
 
-Option 1: Download FD dataset from given link: Click here
+Option 1: Download UCF-Crime dataset from given link: [Click here](https://openaccess.thecvf.com/content_cvpr_2018/html/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.html)
 
-Option 2: Download ADSF dataset from given link: Click here 
+Option 2: Download CUHK Avenue dataset from given link: [Click here](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Lu_Abnormal_Event_Detection_2013_ICCV_paper.html) 
 
-Option 3: The proposed DFAN dataset Click here
+Option 3: Download ShanghaiTech dataset from given link: [Click here](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
 
 ## 3. Acknowledgements
-This work was supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), Grant/Award Number:(2023R1A2C1005788).
+This work was supported by the National Research Foundation of Korea (NRF), a grant funded by the Korea government (MSIT), Grant/Award Number: (2023R1A2C1005788).
